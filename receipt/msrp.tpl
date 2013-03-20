@@ -10,7 +10,7 @@ body {
 	font: normal 10pt 'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 .receipt .header h3, .receipt .header p {
-	font-size: 10pt;
+	font-size: 15pt;
 	margin: 0;
 }
 .receipt h2 {
